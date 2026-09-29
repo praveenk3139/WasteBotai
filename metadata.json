@@ -1,0 +1,8 @@
+{
+  "name": "WasteBot AI",
+  "description": "AI-Powered Smart Campus Waste, Cleanliness, Safety & Lost-and-Found Management System.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
